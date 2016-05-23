@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Playas</string>
+    <string name="app_name_long">Playas de Asturias</string>
+
+    <string name="otros">Otros</string>
+    <string name="configuracion">Configuración</string>
+    <string name="informacion">Información</string>
+    <string name="listado">Listado</string>
+    <string name="mapa">Mapa</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="zona">Zona</string>
+    <string name="descripcion">Descripción</string>
+    <string name="accesos">Accesos</string>
+    <string name="tipo">Tipo</string>
+    <string name="longitud">Longitud</string>
+    <string name="observaciones">Observaciones</string>
+    <string name="coordenadas">Coordenadas</string>
+    <string name="descargando">Descargando datos...</string>
+    <string name="no_seleccion">Selecciona una playa de la lista</string>
+    <string name="playa_favorita">Playa guardada como favorita.</string>
+    <string name="playa_no_favorita">Playa eliminada de la lista de favoritos.</string>
+    <string name="lista_favoritos_vacia">No hay favoritos.</string>
+    <string name="hint_add_favoritos">Puedes añadir favoritos pulsando el siguiente boton dentro de los detalles de una playa.</string>
+    <string name="lista_playas_vacia">No hay playas disponibles.</string>
+    <string name="hint_add_playas">Para actualizar la lista de tablas, deslize esta pantalla hacia abajo.\n\nEn caso de estar actualizando, espere.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="no_detalles">Selecciona una playa de la lista para ver sus detalles.</string>
+    <string name="buscar">Buscar</string>
+
+    <!--INFORMACION-->
+
+    <string name="qcalidad">Q de Calidad</string>
+    <string name="qcalidad_descripcion">La “Q” de Calidad es la marca que representa la calidad en el sector turístico español.</string>
+
+    <string name="bandera_azul">Bandera azul</string>
+    <string name="bandera_azul_descripcion">Premio otorgado a las playas que cumplen una serie de condiciones ambientales e instalaciones.</string>
+
+    <string name="accesibilidad">Accesibilidad</string>
+    <string name="accesibilidad_descripcion">Disponibilidad de fácil acceso a playa e instalaciones a personas con movilidad reducida.</string>
+
+    <string name="duchas">Duchas</string>
+    <string name="duchas_descripcion">Servicio de duchas disponible en las instalaciones de la playa.</string>
+
+    <string name="hosteleria">Hostelería</string>
+    <string name="hosteleria_descripcion">Establecimiento hostelero cercano a las inmediaciones de la playa.</string>
+
+    <string name="parking">Aparcamiento</string>
+    <string name="parking_descripcion">Servicio de parking gratiuto disponible en las instalaciones de la playa.</string>
+
+    <string name="pesca">Pesca</string>
+    <string name="pesca_descripcion">Playa en la que se permite la práctica de pesca (submarina o no).</string>
+
+    <string name="servicios">Servicios</string>
+    <string name="servicios_descripcion">Disponibilidad de aseos en las instalaciones de la playa.</string>
+
+    <string name="salvamento">Soccoristas</string>
+    <string name="salvamento_descripcion">Servicio de soccorismo disponible a lo largo de la playa.</string>
+
+    <string name="surf">Surf</string>
+    <string name="surf_descripcion">Playa idonea para la práctica de surf.</string>
+    <string name="title_activity_configuracion">Configuración</string>
+
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="descargar_via_wifi">Descarga solo con WiFi</string>
+    <string name="descargar_via_wifi_descripcion">Solo se realizará la descarga de datos en el caso de que se disponga de una conexión wifi.</string>
+    <string name="no_descargar_wifi">No se puede descargar sin WiFi.</string>
+    <string name="no_descargar_red">No hay conexión de red.</string>
+    <string name="comments">Enviar comentarios</string>
+    <string name="email_subject">Comentarios acerca de la aplicacion de playas</string>
+    <string name="email_text">Descripcion del error:</string>
+    <string name="email_send">Enviar email...</string>
+
+
+</resources>

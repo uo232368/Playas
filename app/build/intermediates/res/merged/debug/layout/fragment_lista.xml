@@ -1,0 +1,40 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_lista"
+    tools:context="es.ppn.playas.Lista"
+    android:background="#e0e0e0">
+
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/swipeRefreshLayout"
+        android:layout_gravity="center" >
+
+       <RelativeLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent">
+
+           <android.support.v7.widget.RecyclerView
+               android:id="@+id/recycler"
+               android:layout_width="fill_parent"
+               android:layout_height="fill_parent"
+               android:clipToPadding="false"
+               android:background="@color/listaBack" />
+
+           <include
+               android:id="@+id/noPlayas"
+               layout="@layout/playas_lista_vacia"
+               android:layout_height="fill_parent"
+               android:layout_width="fill_parent">
+
+           </include>
+
+       </RelativeLayout>
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+
+</FrameLayout>
